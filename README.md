@@ -1,6 +1,6 @@
 # Coding_Problems
 
-Copyright (c) 2021, programmingwithalex
+Copyright (c) 2021, https://github.com/programmingwithalex
 
 Explanation of how to solve various coding problems.
 
